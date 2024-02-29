@@ -40,7 +40,7 @@ export default function App() {
           <div className="flex justify-center flex-1 mb-10 md:mb-16 lg:mb-0 z-10">
             <img
               className="w-5/6 h-5/6 sm:w-3/4 sm:h-3/4 md:w-full md:h-full"
-              src="/public/imgs/hero-bg.png"
+              src="/imgs/hero-bg.png"
               alt=""
             />
           </div>
@@ -69,7 +69,7 @@ export default function App() {
             <div className="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
               <img
                 className="w-5/6 h-5/6 sm:w-3/4 sm:h-3/4 md:w-full md:h-full"
-                src="/public/imgs/illustration-features-tab-1.png"
+                src="/imgs/illustration-features-tab-1.png"
                 alt=""
               />
             </div>
@@ -104,7 +104,7 @@ export default function App() {
             <div className="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
               <img
                 className="w-5/6 h-5/6 sm:w-3/4 sm:h-3/4 md:w-full md:h-full"
-                src="/public/imgs/illustration-features-tab-2.png"
+                src="/imgs/illustration-features-tab-2.png"
                 alt=""
               />
             </div>
@@ -136,7 +136,7 @@ export default function App() {
             <div className="flex flex-1 justify-center z-10 mb-10 lg:mb-0">
               <img
                 className="w-5/6 h-5/6 sm:w-3/4 sm:h-3/4 md:w-full md:h-full"
-                src="/public/imgs/illustration-features-tab-3.png"
+                src="/imgs/illustration-features-tab-3.png"
                 alt=""
               />
             </div>
@@ -182,7 +182,7 @@ export default function App() {
           {/* <-------Card 1 --------> */}
           <div className="flex flex-col rounded-md shadow-md lg:mb-16">
             <div className="p-6 flex flex-col items-center">
-              <img src="/public/imgs/logo-chrome.svg" alt="" />
+              <img src="/imgs/logo-chrome.svg" alt="" />
               <h3 className="mt-5 mb-2 text-bookmark-blue text-lg">
                 Add to Chrome
               </h3>
@@ -203,7 +203,7 @@ export default function App() {
           {/* <-------Card 2 --------> */}
           <div className="flex flex-col rounded-md shadow-md lg:my-8">
             <div className="p-6 flex flex-col items-center">
-              <img src="/public/imgs/logo-firefox.svg" alt="" />
+              <img src="/imgs/logo-firefox.svg" alt="" />
               <h3 className="mt-5 mb-2 text-bookmark-blue text-lg">
                 Add to Firefox
               </h3>
@@ -224,7 +224,7 @@ export default function App() {
           {/* <-------Card 3 --------> */}
           <div className="flex flex-col rounded-md shadow-md lg:mt-16">
             <div className="p-6 flex flex-col items-center">
-              <img src="/public/imgs/logo-opera.svg" alt="" />
+              <img src="/imgs/logo-opera.svg" alt="" />
               <h3 className="mt-5 mb-2 text-bookmark-blue text-lg">
                 Add to Opera
               </h3>
@@ -322,7 +322,7 @@ export default function App() {
       <footer className="bg-bookmark-blue py-8">
         <div className="container flex flex-col md:flex-row items-center">
           <div className="flex flex-1 flex-wrap items-center justify-center md:justify-start gap-12">
-            <img src="/public/imgs/logo-bookmark-white.png" alt="" />
+            <img src="/imgs/logo-bookmark-white.png" alt="" />
             <ul className="flex text-white uppercase gap-12 text-xs">
               <li className="cursor-pointer">Features</li>
               <li className="cursor-pointer">Pricing</li>
